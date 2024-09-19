@@ -9,11 +9,13 @@ const TAB_DATA = [
         id: "skills",
         content: (
           <ul className="list-disc pl-2">
-                <li>JavaScript</li>
-                <li>HTML</li>
-                <li>CSS</li>
-                <li>C#</li>
-                <li>Python</li>
+                <li>Adobe Photoshop</li>
+                <li>Adobe Animate</li>
+                <li>Adobe After Effect</li>
+                <li>Adobe Premier Pro</li>
+                <li>3ds Max</li>
+                <li>Unity</li>
+                <li>Programming Language (Python, C#, R, HTML, CSS)</li>
           </ul>
         ),
     },
@@ -22,7 +24,7 @@ const TAB_DATA = [
         id: "experiences",
         content: (
           <ul className="list-disc pl-2">
-            <li>Science Club Commity</li>
+            <li>part-time waiter (Nanyang Cafe)</li>
           </ul>
         ),
     },
@@ -31,8 +33,7 @@ const TAB_DATA = [
         id: "education",
         content: (
           <ul className="list-disc pl-2">
-                <li>Asia Pacific University</li>
-                <li>SM Wong Nai Siong</li>
+                <li>Asia Pacific University of technology and innovation (APU)</li>
           </ul>
         ),
     }
@@ -56,7 +57,7 @@ const AboutMe = () => {
                 </div>
                 <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
                     <h1 className="text-4xl font-bold text-white mb-4">About Me</h1>
-                    <p className="text-base text-justify lg:text-lg">I am currently pursuing a degree in Multimedia Technology at APU, where I have been honing my skills in various technologies. I am familiar in frontend development, with expertise in HTML and CSS.</p>
+                    <p className="text-base text-justify lg:text-lg">I am currently pursuing a degree in Multimedia Technology at APU, where I have been honing my skills in various technologies. I am familiar in multimedia development, with expertise in several tools, such as Adobe applications, Autodesk 3ds Max, and Unity. I am also familiar with types of programme languages, for example C#, Python, R, HTML,and CSS.</p>
                     <div className="flex flex-row mt-8">
 {/* 1e */}
                         <TabButton 

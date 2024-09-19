@@ -5,43 +5,39 @@ import ProjectCard from "./ProjectCard";
 const projectData = [
     {
         id: 1,
-        title: "LinkedOut & About",
-        description: "This is a project.",
-        image: "/projects/linkedout&about.png",
-        gitUrl: "https://github.com/APU-Blockchain-Cryptocurrency-Club/LinkedOutAndAbout"
-
+        title: "Game Brochure",
+        description: "This is a project to design a brochure for a product using Adobe Photoshop.",
+        image: "/projects/Picture1.jpg",
     },
     {
         id: 2,
-        title: "ClubDAO",
-        description: "This is a project.",
-        image: "/projects/clubdao.png",
-        gitUrl: "https://github.com/0xYudhishthra/ClubDAO"
+        title: "NumberNest",
+        description: "This is a project of creating an application for kids-learning using Adobe Animate.",
+        image: "/projects/Picture2.png",
     },
     {
         id: 3,
-        title: "FundChat",
-        description: "This is a project for APUBCC Sparkathon & Solana Hyperdrive.",
-        image: "/projects/FundChat.png",
-        gitUrl: "https://github.com/cheongyeechian/fundchat"
+        title: "Character Modelling",
+        description: "This is a project to create a 3d character using Autodesk 3ds Max.",
+        image: "/projects/InProgress.jpg",
     },
     {
         id: 4,
-        title: "Megamask",
-        description: "This is a project for ETH Online.",
-        image: "/projects/megamask.png",
+        title: "VR Chemical Simulator",
+        description: "This is a project to create a simulator in VR environment using Unity.",
+        image: "/projects/InProgress.jpg",
         gitUrl: "https://github.com/megamask"
     }, {
         id: 5,
-        title: "zkJom",
-        description: "This is a project fro ETHKL.",
-        image: "/projects/zkJom.png",
+        title: "E-portfolio",
+        description: "This is a project to create an e-portfolio using Adobe Animate.",
+        image: "/projects/InProgress.jpg",
         gitUrl: "https://github.com/trlau/zkJ0M"
     }, {
         id: 6,
-        title: "Attest Me",
-        description: "This is a project for ETH Global Superhack.",
-        image: "/projects/attestme.png",
+        title: "Plant Learning",
+        description: "This is a project to create a website for posting blog and learn planting using HTML and C#.",
+        image: "/projects/InProgress.jpg",
         gitUrl: "https://github.com/0xBenjamintan/attestMe"
     }, 
 

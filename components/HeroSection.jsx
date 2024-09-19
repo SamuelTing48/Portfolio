@@ -19,7 +19,7 @@ const HeroSection = () => {
               {/* span text seperator -- for design*/}
               <span className="text-white text-8xl ">
                 Hello, I&lsquo;m{" "} 
-                <span className="text-transparent bg-clip-text sm:text-8xl md:text-9xl bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
+                <span className="text-transparent bg-clip-text sm:text-8xl md:text-9xl bg-gradient-to-r from-blue-500 via-navy-500 to-green-500">
                 Samuel Ting Li Wei
                 </span>
               </span>
@@ -32,7 +32,7 @@ const HeroSection = () => {
                 }}
                 onInit={(typewriter) => {
                     typewriter
-                    .typeString`<span style="color:#FF77FF">Web Developer</span>`
+                    .typeString`<span style="color:#48a9e9">Multimedia Developer</span>`
                     .pauseFor(1500)
                     .deleteAll()
                     .start();
@@ -46,13 +46,13 @@ const HeroSection = () => {
             </p>
               <Link
                 href="#projects" 
-                className="px-12 mb-4 inline-block py-3 rounded-full mr-4 border-solid border-2 border-indigo-600 hover:bg-violet-600">
+                className="px-12 mb-4 inline-block py-3 rounded-full mr-4 border-solid border-2 border-blue-600 hover:bg-cyan-600">
                 <span className="text-xl text-white">Projects</span>
               </Link>
              
               <Link
-                href="https://docs.google.com/document/d/17wg7AsZIjkqsjFUUhTrZMHay-5y2ucf66CVRCC10K2w/edit?usp=sharing"
-                className="px-6 inline-block py-3 rounded-full mr-4 border-solid border-2  border-pink-500 hover:bg-pink-400">
+                href="https://drive.google.com/file/d/1HUlecJBy1MNt71PvMTU6KTdoYZcfyn7W/view?usp=sharing"
+                className="px-6 inline-block py-3 rounded-full mr-4 border-solid border-2  border-green-500 hover:bg-lime-400">
                 <span className="text-xl text-white">View my Resume</span>
               </Link>
           </motion.div>
@@ -64,7 +64,7 @@ const HeroSection = () => {
           >
           <div className="w-[400px] h-[400px] relative z-0">
             <img
-              src="/Hero-Section.jpg"
+              src="/Hero-Section.jpeg"
               alt="hero section"
               className=" transform rounded-full flex relative -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               width={450}

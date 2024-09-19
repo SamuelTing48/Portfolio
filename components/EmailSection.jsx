@@ -21,12 +21,12 @@ const EmailSection = () => {
                     <Link href="https://github.com/SamuelTing48">
                         <Image src={GithubIcon} alt="Github Icon" />
                     </Link>
-                    <Link href="www.linkedin.com/in/samuel-ting-li-wei-undefined-5203b62a4">
+                    {/* <Link href="https://www.linkedin.com/in/samuel-ting-li-wei-5203b62a4">
                         <Image src={LinkedinIcon} alt="Linkedin Icon" />
                     </Link>
                     <Link href="https://www.instagram.com/samuel_tlw/" className="mt-1">
                         <Image src={InstagramIcon}/>
-                    </Link>
+                    </Link> */}
                     <Link href="mailto:samueltlw17@gmail.com" className="mt-1">
                         <Image src={GmailIcon}/>
                     </Link>
