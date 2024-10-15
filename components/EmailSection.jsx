@@ -2,6 +2,7 @@ import React from "react";
 import GithubIcon from "../public/github-icon.svg";
 import LinkedinIcon from "../public/linkedin-icon.svg";
 import InstagramIcon from "../public/instagram-icon.svg";
+import WhatsappIcon from "../public/whatsapp-icon.svg";
 import Link from "next/link";
 import Image from "next/image";
 import GmailIcon from "../public/gmail-icon.svg";
@@ -29,6 +30,9 @@ const EmailSection = () => {
                     </Link> */}
                     <Link href="mailto:samueltlw17@gmail.com" className="mt-1">
                         <Image src={GmailIcon}/>
+                    </Link>
+                    <Link href="https://wa.me/60133351123">
+                        <Image src={WhatsappIcon} alt="whatsapp" />
                     </Link>
 
                 </div>

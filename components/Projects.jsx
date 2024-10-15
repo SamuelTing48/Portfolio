@@ -19,29 +19,38 @@ const projectData = [
     },
     {
         id: 3,
-        title: "Character Modelling",
-        description: "This is a project to create a 3d character using Autodesk 3ds Max.",
-        image: "/projects/InProgress.jpg",
-        gitUrl: "#"
+        title: "Simple Website: APU Residence",
+        description: "This is a project of creating an website using HTML and CSS.",
+        image: "/projects/Picture3.png",
+        gitUrl: "https://github.com/SamuelTing48/WDD-website"
     },
     {
         id: 4,
-        title: "VR Chemical Simulator",
-        description: "This is a project to create a simulator in VR environment using Unity.",
-        image: "/projects/InProgress.jpg",
-        gitUrl: "#"
-    }, {
+        title: "Demo Video: AR Application",
+        description: "This is a simple demo video for an AR Interior appliction.",
+        image: "/projects/Picture4.png",
+        gitUrl: "https://drive.google.com/file/d/1ADtseSS9TJXD1_pPAgpnMguYEDz9eGso/view?usp=sharing"
+    },
+    {
         id: 5,
-        title: "E-portfolio",
-        description: "This is a project to create an e-portfolio using Adobe Animate.",
-        image: "/projects/InProgress.jpg",
-        gitUrl: "#"
-    }, {
+        title: "Business Model Intro: Agrowise",
+        description: "This is a video of a brief introduction about the business model 'Agrowise', including prototype.",
+        image: "/projects/Picture5.png",
+        gitUrl: "https://drive.google.com/file/d/1ct20DRHp7Izk94zHSHERJeDAOOZ8uib6/view?usp=sharing"
+    }, 
+    {
         id: 6,
-        title: "Plant Learning",
-        description: "This is a project to create a website for posting blog and learn planting using HTML and C#.",
+        title: "Character Modelling",
+        description: "This is a project to create a 3d character using Autodesk 3ds Max.",
         image: "/projects/InProgress.jpg",
-        gitUrl: "#"
+        gitUrl: "https://drive.google.com/drive/folders/1_qBw0RK8zn7WXCWRHmeoH3u-BxyHCwOU?usp=sharing"
+    }, 
+    {
+        id: 7,
+        title: "Plant Learning",
+        description: "This is a project to create a website for posting blog and learn planting using HTML,CSS and C#.",
+        image: "/projects/InProgress.jpg",
+        gitUrl: "https://drive.google.com/drive/folders/1O8Gwb-aAClVLT8SeqJUQ4K1NzUV_IvTz?usp=sharing"
     }, 
 
 ];
