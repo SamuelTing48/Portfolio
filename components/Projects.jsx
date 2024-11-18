@@ -49,7 +49,7 @@ const projectData = [
         id: 7,
         title: "Sprout Space",
         description: "This is a project to create a website for posting blog and learn planting using ASP.net(C#), CSS, and SQL.",
-        image: "/projects/InProgress.jpg",
+        image: "/projects/Picture7.png",
         gitUrl: "https://github.com/SamuelTing48/Wapp"
     }, 
 
