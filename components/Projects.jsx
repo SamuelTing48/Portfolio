@@ -40,17 +40,17 @@ const projectData = [
     }, 
     {
         id: 6,
-        title: "Character Modelling",
-        description: "This is a project to create a 3d character using Autodesk 3ds Max.",
-        image: "/projects/InProgress.jpg",
-        gitUrl: "https://drive.google.com/drive/folders/1_qBw0RK8zn7WXCWRHmeoH3u-BxyHCwOU?usp=sharing"
+        title: "Short Video (Self learn)",
+        description: "This is a short video that use Adobe Illustrator and Adobe After Effect.",
+        image: "/projects/Picture6.png",
+        gitUrl: "https://drive.google.com/drive/folders/10USRcaAVGoxaN1TaYu1cbGZWXsaanqZO?usp=drive_link"
     }, 
     {
         id: 7,
-        title: "Plant Learning",
-        description: "This is a project to create a website for posting blog and learn planting using HTML,CSS and C#.",
+        title: "Sprout Space",
+        description: "This is a project to create a website for posting blog and learn planting using ASP.net(C#), CSS, and SQL.",
         image: "/projects/InProgress.jpg",
-        gitUrl: "https://drive.google.com/drive/folders/1O8Gwb-aAClVLT8SeqJUQ4K1NzUV_IvTz?usp=sharing"
+        gitUrl: "https://github.com/SamuelTing48/Wapp"
     }, 
 
 ];
