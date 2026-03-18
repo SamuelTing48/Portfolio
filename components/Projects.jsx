@@ -38,8 +38,9 @@ const projectData = [
         image: "/projects/Picture5.png",
         gitUrl: "https://drive.google.com/file/d/1ct20DRHp7Izk94zHSHERJeDAOOZ8uib6/view?usp=sharing"
     },  
+
     {
-        id: 6,
+        id: 7,
         title: "Sprout Space",
         description: "This is a project to create a website for posting blog and learn planting using ASP.net(C#), CSS, and SQL.",
         image: "/projects/Picture7.png",
