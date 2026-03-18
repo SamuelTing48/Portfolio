@@ -37,16 +37,9 @@ const projectData = [
         description: "This is a video of a brief introduction about the business model 'Agrowise', including prototype.",
         image: "/projects/Picture5.png",
         gitUrl: "https://drive.google.com/file/d/1ct20DRHp7Izk94zHSHERJeDAOOZ8uib6/view?usp=sharing"
-    }, 
+    },  
     {
         id: 6,
-        title: "Short Video (Self learn)",
-        description: "This is a short video that use Adobe Illustrator and Adobe After Effect.",
-        image: "/projects/Picture6.png",
-        gitUrl: "https://drive.google.com/drive/folders/10USRcaAVGoxaN1TaYu1cbGZWXsaanqZO?usp=drive_link"
-    }, 
-    {
-        id: 7,
         title: "Sprout Space",
         description: "This is a project to create a website for posting blog and learn planting using ASP.net(C#), CSS, and SQL.",
         image: "/projects/Picture7.png",
