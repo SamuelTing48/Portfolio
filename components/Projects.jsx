@@ -44,7 +44,7 @@ const projectData = [
         id: 6,
         title: "Group Project Video (Fit Again)",
         description: "This is a group project to create a video using Adobe After Effect and Adobe Premier Pro.",
-        image: "/projects/Screenshot 2026-03-19 130017.png",
+        image: "/projects/Fit Again.png",
         gitUrl: "https://drive.google.com/file/d/10MutFuxG2iNOfYtkL_k3QHbwswkgfNWa/view?usp=sharing"
     }, 
 
@@ -52,7 +52,7 @@ const projectData = [
         id: 7,
         title: "Fire Fighter Simulator",
         description: "This is a project to create a VR application to simulate the fire fighting situation.",
-        image: "/projects/Screenshot 2026-03-19 130127.png",
+        image: "/projects/Fire Fighter Simulator.png",
         gitUrl: "https://drive.google.com/file/d/1ipR6_GjZSFDuvigb5eSoWrpqm4nrrTtT/view"
     }, 
     {
@@ -66,7 +66,7 @@ const projectData = [
         id: 9,
         title: "FYP: Release Room",
         description: "This is a FYP project to create a VR application from Unity to help university students to release stress.",
-        image: "/projects/Screenshot 2026-01-05 224633.png",
+        image: "/projects/FYP.png",
         gitUrl: "https://drive.google.com/drive/folders/1hDqCGMwlk7BGpi05MfQPVmTRi1QKMtOV?usp=sharing"
     },
 
