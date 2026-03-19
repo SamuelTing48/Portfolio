@@ -24,28 +24,52 @@ const projectData = [
         image: "/projects/Picture3.png",
         gitUrl: "https://github.com/SamuelTing48/WDD-website"
     },
+    
     {
         id: 4,
-        title: "Demo Video: AR Application",
-        description: "This is a simple demo video for an AR Interior appliction.",
-        image: "/projects/Picture4.png",
-        gitUrl: "https://drive.google.com/file/d/1ADtseSS9TJXD1_pPAgpnMguYEDz9eGso/view?usp=sharing"
-    },
-    {
-        id: 5,
-        title: "Business Model Intro: Agrowise",
-        description: "This is a video of a brief introduction about the business model 'Agrowise', including prototype.",
-        image: "/projects/Picture5.png",
-        gitUrl: "https://drive.google.com/file/d/1ct20DRHp7Izk94zHSHERJeDAOOZ8uib6/view?usp=sharing"
+        title: "3D Model (Elf)",
+        description: "This is a 3D model created from 3Ds Max, combining with Adobe Substance 3D Painter and Marmoset",
+        image: "/projects/render2004.png",
+        gitUrl: "https://drive.google.com/drive/folders/1_qBw0RK8zn7WXCWRHmeoH3u-BxyHCwOU?usp=drive_link"
     },  
 
     {
-        id: 7,
+        id: 5,
         title: "Sprout Space",
         description: "This is a project to create a website for posting blog and learn planting using ASP.net(C#), CSS, and SQL.",
         image: "/projects/Picture7.png",
         gitUrl: "https://github.com/SamuelTing48/Wapp"
     }, 
+    {
+        id: 6,
+        title: "Group Project Video (Fit Again)",
+        description: "This is a group project to create a video using Adobe After Effect and Adobe Premier Pro.",
+        image: "/projects/Screenshot 2026-03-19 130017.png",
+        gitUrl: "https://drive.google.com/file/d/10MutFuxG2iNOfYtkL_k3QHbwswkgfNWa/view?usp=sharing"
+    }, 
+
+    {
+        id: 7,
+        title: "Fire Fighter Simulator",
+        description: "This is a project to create a VR application to simulate the fire fighting situation.",
+        image: "/projects/Screenshot 2026-03-19 130127.png",
+        gitUrl: "https://drive.google.com/file/d/1ipR6_GjZSFDuvigb5eSoWrpqm4nrrTtT/view"
+    }, 
+    {
+        id: 8,
+        title: "3D Model (Buildings)",
+        description: "This is a 3D model group project created from 3Ds Max, combining with Adobe Substance 3D Painter and Unreal Engine",
+        image: "/projects/Image_20260208210910.png",
+        gitUrl: "https://drive.google.com/drive/folders/1aNKOt0hiNbTfGr_DUkHypWj5YpBgrU_k?usp=sharing"
+    },
+    {
+        id: 9,
+        title: "FYP: Release Room",
+        description: "This is a FYP project to create a VR application from Unity to help university students to release stress.",
+        image: "/projects/Screenshot 2026-01-05 224633.png",
+        gitUrl: "https://drive.google.com/drive/folders/1hDqCGMwlk7BGpi05MfQPVmTRi1QKMtOV?usp=sharing"
+    },
+
 
 ];
 
